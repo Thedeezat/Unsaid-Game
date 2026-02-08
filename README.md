@@ -14,10 +14,7 @@ A Flutter mobile party game based on the social deduction game **Undercover**. O
 ### Steps
 
 1. **Open the project** and go to the app directory:
-   ```bash
-   cd unsaid
-   ```
-
+   
 2. **Install dependencies:**
    ```bash
    flutter pub get
